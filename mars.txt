@@ -2,4 +2,5 @@ Mars is the fourth planet from the sun.
 Welcome to Mars!
 It's red.
 There was a movie about it.
-And everyone died
+And everyone died.
+It was a sad movie.
